@@ -25,7 +25,7 @@
 		<opencsv.version>5.11.1</opencsv.version>
 		<jjwt.version>0.11.5</jjwt.version>
 		<heroku.appName>sivalabs-moviebuffs</heroku.appName>
-		<testcontainers.version>1.21.0</testcontainers.version>
+		<testcontainers.version>1.21.1</testcontainers.version>
 		<p6spy.starter.version>1.11.0</p6spy.starter.version>
 		<archunit-junit5.version>1.4.1</archunit-junit5.version>
 		<jacoco.minimum.coverage>0.70</jacoco.minimum.coverage>

@@ -19,7 +19,7 @@
         <spring-cloud.version>2022.0.5</spring-cloud.version>
         <commons-io.version>2.19.0</commons-io.version>
         <opencsv.version>5.11.1</opencsv.version>
-        <testcontainers.version>1.21.0</testcontainers.version>
+        <testcontainers.version>1.21.1</testcontainers.version>
     </properties>
 
     <dependencies>
